@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,ip111.cn
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
@@ -14,7 +15,6 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-
 DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,viptwo.top
 DOMAIN-SUFFIX,followme.com
